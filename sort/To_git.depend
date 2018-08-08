@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1533712033 source:e:\codeblock\c++\to_git\main.cpp
+	<iostream>
+	"sortHelper.h"
+	"sort.h"
+
+1533709526 e:\codeblock\c++\to_git\sorthelper.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1533712248 e:\codeblock\c++\to_git\sort.h
+	<iostream>
+

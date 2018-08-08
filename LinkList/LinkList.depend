@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1531902659 source:e:\codeblock\c++\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkList.h"
+
+1531901993 e:\codeblock\c++\linklist\linklist.h
+
+1531908932 source:e:\codeblock\c++\linklist\linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkList.h"
+
